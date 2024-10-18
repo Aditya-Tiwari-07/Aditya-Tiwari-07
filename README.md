@@ -1,6 +1,6 @@
 # Hi, I'm Aditya! 👋
 
-I'm a software developer passionate about building apps and solving data engineering problems.
+I'm a software developer passionate about building AI, ML and Data Intensive Apps.
 
 - 🌱 Currently learning Flutter and exploring ML and Data pipelines.
 - 🚀 Working on my startup idea and looking to network with fellow developers.
