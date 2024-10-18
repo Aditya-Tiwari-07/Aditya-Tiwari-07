@@ -15,10 +15,8 @@ I'm a software developer passionate about building apps and solving data enginee
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Tiwari-07&theme=radical)
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Tiwari-07&theme=radical)
-
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya-Tiwari-07&theme=radical)
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tiwari-07&show_icons=true)       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Tiwari-07&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Tiwari-07&theme=radical)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Tiwari-07&theme=radical) ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya-Tiwari-07&theme=radical)
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tiwari-07&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Tiwari-07&layout=compact&theme=radical)
