@@ -12,3 +12,6 @@ I'm a software developer passionate about building apps and solving data enginee
 - [Twitter](https://x.com/Aditya_T007)
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tiwari-07&show_icons=true)
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Tiwari-07)
+
