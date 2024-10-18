@@ -13,7 +13,7 @@ I'm a software developer passionate about building apps and solving data enginee
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Tiwari-07&color=blue)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" width="500px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Tiwari-07&theme=radical" width="700px" />
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Tiwari-07&theme=radical) ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Tiwari-07&theme=radical)
 
