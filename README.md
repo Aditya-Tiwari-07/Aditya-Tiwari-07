@@ -13,11 +13,9 @@ I'm a software developer passionate about building apps and solving data enginee
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Tiwari-07&color=blue)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Aditya-Tiwari-07&theme=algolia)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Tiwari-07&theme=radical)
 
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Tiwari-07)
-
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Tiwari-07&theme=radical) ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Tiwari-07&theme=radical)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Tiwari-07&theme=radical)
 
 ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya-Tiwari-07&theme=radical)
 
