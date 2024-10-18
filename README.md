@@ -17,8 +17,6 @@ I'm a software developer passionate about building apps and solving data enginee
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Tiwari-07)
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tiwari-07&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Tiwari-07&layout=compact&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tiwari-07&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Tiwari-07&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Tiwari-07&theme=radical)
