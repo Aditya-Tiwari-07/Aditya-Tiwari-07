@@ -11,12 +11,10 @@ I'm a software developer passionate about building apps and solving data enginee
 - [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-587833203/)
 - [Twitter](https://x.com/Aditya_T007)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Tiwari-07&color=blue)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tiwari-07&show_icons=true) ![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Tiwari-07&color=blue)
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Tiwari-07&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Tiwari-07&theme=radical) ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Tiwari-07&theme=radical)
 
 ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya-Tiwari-07&theme=radical)
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tiwari-07&show_icons=true)
