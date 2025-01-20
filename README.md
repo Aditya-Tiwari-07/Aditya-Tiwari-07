@@ -15,8 +15,6 @@ I'm a software developer passionate about building AI, ML and Data Intensive App
 
 [![Aditya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Tiwari-07&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tiwari-07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aditya-Tiwari-07)](https://wakatime.com)
-![GitHub Contribution Snake](https://github.com/Aditya-Tiwari-07/your-username/blob/output/github-contribution-grid-snake.svg)
 ![GitHub streak](https://img.shields.io/badge/dynamic/json?url=https://streak-stats.demolab.com/?user=Aditya-Tiwari-07&theme=dark&label=Streak&color=green)
 
 
