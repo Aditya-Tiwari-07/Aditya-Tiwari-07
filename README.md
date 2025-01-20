@@ -13,5 +13,5 @@ I'm a software developer passionate about building AI, ML and Data Intensive App
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Tiwari-07&color=blue) 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Tiwari-07)](https://git.io/streak-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tiwari-07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Tiwari-07&theme=radical" width="800px" />
